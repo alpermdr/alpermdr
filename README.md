@@ -1,5 +1,11 @@
 
+
 <div align="center" style="margin: 40px 0">
+    <a href="https://github.com/alpermudar?tab=followers">
+        <img width="175px" src="https://camo.githubusercontent.com/eb90056fe9e433bb9e274db8680d6e380a8f08ff84a0ebae326e5b6a3c2dfe8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746f70646576656c6f7065723037323926636f6c6f723d444530303244" data-canonical-src="https://komarev.com/ghpvc/?username=alpermudar&amp;color=DE002D" style="max-width: 100%;">
+    </a>
+</div>
+    <div align="center" style="margin: 40px 0">
 
 </div>
 <div align="center" style="margin: 40px 0">
@@ -12,11 +18,11 @@
 
 <br />
 <h2>A Bit About Me</h2>
-<b>Your success is my success.</b><br />
-Hello i ussually making a code<br />
-I know web-security in cyber security<br />
-I know modern web librarys<br />
-I used nodejs and JavaScript
+<br>Your success is my success.</br>
+<br>Hello i ussually making a code<br />
+<br>I know web-security in cyber security<br />
+<br>I know modern web librarys<br />
+<br>I used nodejs and JavaScript<br />
 <br>
 Let's make a good experience with me.
 <br />
@@ -33,6 +39,7 @@ Let's make a good experience with me.
            <h1> <b> Thecnologies </b> </h1>
         </div>
         <div align="center">   
+            
 <img style="margin: 10px" style="margin-top: 50px" alt="C-Sharp" height="50" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png" />
 <img style="margin: 10px" style="margin-top: 50px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
