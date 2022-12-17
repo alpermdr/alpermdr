@@ -29,14 +29,14 @@ Let's make a good experience with me.
            <h6> <b> Thecnologies </b> </h6>
         </div>
         <div align="center">   
-         <img style="margin: 10px" style="margin-top: 30px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-         <img style="margin: 10px" style="margin-top: 30px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-         <img style="margin: 10px" style="margin-top: 30px" alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-         <img style="margin: 10px" style="margin-top: 30px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-         <img style="margin: 10px" style="margin-top: 30px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
-         <img style="margin: 10px" style="margin-top: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-         <img style="margin: 10px" style="margin-top: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
-         <img style="margin: 10px" style="margin-top: 30px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+         <img style="margin: 10px" style="margin-top: 50px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+         <img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
+         <img style="margin: 10px" style="margin-top: 50px" alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
+         <img style="margin: 10px" style="margin-top: 50px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+         <img style="margin: 10px" style="margin-top: 50px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
+         <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+         <img style="margin: 10px" style="margin-top: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
+         <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 
 
 </tr>
