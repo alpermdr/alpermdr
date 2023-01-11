@@ -15,18 +15,6 @@
     </a>
 </div>
 <h1>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-
-<br />
-<h2>A Bit About Me</h2>
-<br>Your success is my success.</br>
-<br>Hello i ussually making a code<br />
-<br>I know web-security in cyber security<br />
-<br>I know modern web librarys<br />
-<br>I used nodejs and JavaScript<br />
-<br>
-Let's make a good experience with me.
-<br />
-<br />
 <script src="https://tryhackme.com/badge/1510467"></script>
 <hr /><h1>
 ![alpermudar's Tryhackme stats]
