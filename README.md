@@ -28,6 +28,10 @@ Let's make a good experience with me.
 <br />
 <br />
 <hr /><h1>
+![alpermudar's Tryhackme stats]
+ </h1>
+ <script src="https://tryhackme.com/badge/1510467"></script>
+ <h1>
 ![alpermudar's GitHub stats]
 </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=alpermudar&show_icons=true&theme=dark"><img>
