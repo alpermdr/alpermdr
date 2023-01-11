@@ -15,11 +15,11 @@
     </a>
 </div>
 <h1>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-<script src="https://tryhackme.com/badge/1510467"></script>
 <hr /><h1>
 ![alpermudar's Tryhackme stats]
  </h1>
  <h1>
+<script src="https://tryhackme.com/badge/1510467"></script>
 ![alpermudar's GitHub stats]
 </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=alpermudar&show_icons=true&theme=dark"><img>
