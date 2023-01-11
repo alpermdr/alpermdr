@@ -27,10 +27,10 @@
 Let's make a good experience with me.
 <br />
 <br />
+<script src="https://tryhackme.com/badge/1510467"></script>
 <hr /><h1>
 ![alpermudar's Tryhackme stats]
  </h1>
- <script src="https://tryhackme.com/badge/1510467"></script>
  <h1>
 ![alpermudar's GitHub stats]
 </h1>
