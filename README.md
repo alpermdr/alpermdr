@@ -41,7 +41,7 @@
 <img style="margin: 10px" style="margin-top: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
 <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 
-
+<img style="margin: 10px" style="margin-top: 50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" height="50" />
 </tr>
 </table>  
 <hr/>
