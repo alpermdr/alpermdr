@@ -35,6 +35,8 @@
            
 <img style="margin: 10px" style="margin-top: 50px" alt="javascripts" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>
            
+<img style="margin: 10px" style="margin-top: 50px" alt="Node.js" height="50" src="https://miro.medium.com/max/720/1*hAAm71eC0mIg3RIA6S4-DQ.webp" 
+<img style="margin: 10px" style="margin-top: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="50" />
             
             
             
@@ -42,11 +44,8 @@
           
 <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 
-<img style="margin: 10px" style="margin-top: 50px" alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-<img style="margin: 10px" style="margin-top: 50px" alt="Node.js" height="50" src="https://miro.medium.com/max/720/1*hAAm71eC0mIg3RIA6S4-DQ.webp" 
 <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-            
-<img style="margin: 10px" style="margin-top: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="50" />
+           
 
 </tr>
 </table>  
