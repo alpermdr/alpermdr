@@ -33,7 +33,7 @@
 <img style="margin: 10px" style="margin-top: 50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" height="50" />
 <img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
            
-<img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
+<img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>
            
             
             
