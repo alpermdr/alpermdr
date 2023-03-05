@@ -33,9 +33,13 @@
 <img style="margin: 10px" style="margin-top: 50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" height="50" />
 <img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
            
+<img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+           
             
-<img style="margin: 10px" style="margin-top: 50px" alt="JavaScript" height="50"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
             
+            
+            
+          
 <img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 
 <img style="margin: 10px" style="margin-top: 50px" alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
