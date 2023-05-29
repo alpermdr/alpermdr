@@ -1,53 +1,15 @@
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/¹⁹²³Kommandant#0659) 
 
-<div align="center" style="margin: 40px 0">
-    <a href="https://github.com/alpermudar?tab=followers">
-        <img width="175px" src="https://camo.githubusercontent.com/eb90056fe9e433bb9e274db8680d6e380a8f08ff84a0ebae326e5b6a3c2dfe8a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746f70646576656c6f7065723037323926636f6c6f723d444530303244" data-canonical-src="https://komarev.com/ghpvc/?username=alpermudar&amp;color=DE002D" style="max-width: 100%;">
-    </a>
-</div>
-    <div align="center" style="margin: 40px 0">
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alpermudar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alpermudar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpermudar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-<div align="center" style="margin: 40px 0">
-    <!-- Followers -->
-    <a href="https://github.com/alpermudar?tab=followers">
-        <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/alpermudar?style=flat-square">
-    </a>
-</div>
-<h1>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-<hr />
- <h1>
-![alpermudar's GitHub stats]
-</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=alpermudar&show_icons=true&theme=dark"><img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpermudar&layout=compact&theme=dark"></img>
+---
+[![](https://visitcount.itsvg.in/api?id=alpermudar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<table><tr>
-        <div align="center">
-           <h1> <b> Thecnologies </b> </h1>
-        </div>
-        <div align="center">   
-            
-<img style="margin: 10px" style="margin-top: 50px" alt="C-Sharp" height="50" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png" />
-<img style="margin: 10px" style="margin-top: 50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" height="50" />
-<img style="margin: 10px" style="margin-top: 50px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-           
-<img style="margin: 10px" style="margin-top: 50px" alt="javascripts" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>
-           
-            
-<img style="margin: 10px" style="margin-top: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="50" />
-<img style="margin: 10px" style="margin-top: 50px" alt="Node.js" height="50" src="https://miro.medium.com/max/720/1*hAAm71eC0mIg3RIA6S4-DQ.webp" />
-            
-            
-            
-            
-
-<img style="margin: 10px" style="margin-top: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-           
-
-</tr>
-</table>  
-<hr/>
-
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
